@@ -1,9 +1,10 @@
-# Image segmentation <<>> remote sensing data
+# Image segmentation <> remote sensing data
 ## Semantic Segmentation 
 
 ## Remote sensing 
 
 ## Files and Folders in the repository
+
 
 ## Objectives 
 * Test Machine learning architetures 
