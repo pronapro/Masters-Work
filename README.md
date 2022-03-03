@@ -1,4 +1,4 @@
-# Topic: Image segmentation on remote sensing data
+# Image segmentation <<>> remote sensing data
 ## Semantic Segmentation 
 
 ## Remote sensing 
