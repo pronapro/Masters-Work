@@ -5,8 +5,11 @@
 
 ## Files and Folders in the repository
 1. U-NET
-    [Architecture implementation](https://github.com/pronapro/Masters-Work/blob/main/U-NET/U-NET%20Implementation.ipynb)
-    [Data preparation](https://github.com/pronapro/Masters-Work/blob/main/U-NET/Data%20Preparation%20.ipynb)
+This folder contains data for implementation of U-NET architecture from scratch using tensorflow. The following are the important files:
+
+   1. [Architecture implementation](https://github.com/pronapro/Masters-Work/blob/main/U-NET/U-NET%20Implementation.ipynb)
+
+    2. [Data preparation](https://github.com/pronapro/Masters-Work/blob/main/U-NET/Data%20Preparation%20.ipynb)
 
 
 ## Objectives 
