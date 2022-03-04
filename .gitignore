@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#UNET
+env/
+U-NET/dataset/
+U-NET/images/
+U-NET/masks/
+U-NET/original/
