@@ -134,3 +134,5 @@ U-NET/dataset/
 U-NET/images/
 U-NET/masks/
 U-NET/original/
+#database on mac
+.DS_Store
