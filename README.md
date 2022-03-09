@@ -4,13 +4,10 @@
 ## Remote sensing 
 
 ## Files and Folders in the repository
-1. U-NET
-This folder contains data for implementation of U-NET architecture from scratch using tensorflow. The following are the important files:
+1. Models
+   1.   [UNET Architecture implementation](https://github.com/pronapro/Masters-Work/blob/main/Copy_of_U_net.ipynb)   
 
-   1. [Architecture implementation](https://github.com/pronapro/Masters-Work/blob/main/U-NET/U-NET%20Implementation.ipynb)
-
-    2. [Data preparation](https://github.com/pronapro/Masters-Work/blob/main/U-NET/Data%20Preparation%20.ipynb)
-
+   2. [FCN Architecture implementation](https://github.com/pronapro/Masters-Work/blob/main/Fcn_architecture.ipynb)
 
 ## Objectives 
 * Test Machine learning architetures 
